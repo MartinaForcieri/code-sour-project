@@ -1,0 +1,10 @@
+
+.parent-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.table-section {
+  width: 45%;
+}
